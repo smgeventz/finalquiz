@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb+srv://smgeventztest:wtqwyBOlLfhdubco@main.sfq5x.mongodb.net/");
+mongoose.connect("mongodb://127.0.0.1:27017/smggtestnew");
 
 const connection = mongoose.connection;
 

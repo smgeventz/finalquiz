@@ -165,7 +165,7 @@ function AddEditExam() {
                   </Form.Item>
                 </Col>
                 <Col span={8}>
-                  {/* <Form.Item label="Category" name="category">
+                  { <Form.Item label="Category" name="category">
                     <select name="" id="">
                       <option value="">Select Category</option>
                       <option value="Javascript">Javascript</option>
@@ -177,7 +177,7 @@ function AddEditExam() {
                       <option value="ebusiness">E-business</option>
 
                     </select>
-                  </Form.Item> */}
+                  </Form.Item> }
                 </Col>
                 <Col span={8}>
                   <Form.Item label="Total Marks" name="totalMarks">
