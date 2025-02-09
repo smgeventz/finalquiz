@@ -159,6 +159,7 @@ function AddEditExam() {
                     <input type="text" />
                   </Form.Item>
                 </Col>
+                {/* this is the mian */}
                 <Col span={8}>
                   <Form.Item label="Exam Duration" name="duration">
                     <input type="number" />
